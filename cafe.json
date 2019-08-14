@@ -3,32 +3,88 @@
       "name": "Market Lane",
       "lat": -33.797689,
       "long": 151.286270,
-      "ambiance": "4/5",
-      "rating": "4/5",
+      "ambiance": "6/10",
+      "rating": "6.5/10",
       "comments": "It pretty good"
     }, {
       "name": "Silo Espresso",
       "lat": -33.797336,
       "long": 151.286498,
-      "ambiance": "3/5",
-      "rating": "3/5",
-      "comments": "depends on who is working"
+      "ambiance": "5/10",
+      "rating": "4-7/10",
+      "comments": "We are regulars when in Manly. Sometimes good, sometimes bad. Depends on who is working"
     },
     {
       "name": "Barefoot Coffee",
       "lat": -33.797288,
       "long": 151.285554,
-      "ambiance": "4/5",
-      "rating": "3.5/5",
+      "ambiance": "5/10",
+      "rating": "6/10",
       "comments": "been once"
     },
     {
       "name": "Roller's Bakehouse",
       "lat": -33.797841,
       "long": 151.287828,
-      "ambiance": "3/5",
-      "rating": "3.5/5",
-      "comments": "quite nice. Rory likes it"
+      "ambiance": "7/10",
+      "rating": "7/10",
+      "comments": "Quite nice. Rory likes it here"
+    },
+    {
+      "name": "Aggy's Corner",
+      "lat": -33.790533,
+      "long": 151.261551,
+      "ambiance": "7/10",
+      "rating": "7/10",
+      "comments": "Need to try again"
+    },
+    {
+      "name": "7 Miles Espresso",
+      "lat": -33.786786,
+      "long": 151.267600,
+      "ambiance": "7/10",
+      "rating": "7.5/10",
+      "comments": "Need to try again"
+    },
+    {
+      "name": "Four Brothers Espresso",
+      "lat": -33.793413,
+      "long": 151.250465,
+      "ambiance": "5/10",
+      "rating": "6.5/10",
+      "comments": "Not too bad"
+    },
+    {
+      "name": "Barrel One Coffee Roasters",
+      "lat": -33.765571,
+      "long": 151.272903,
+      "ambiance": "6/10",
+      "rating": "6.5/10",
+      "comments": "Max likes the coffee cups! The cheese toasties are good too ;)"
+    },
+    {
+      "name": "Chriselle's Gormet Eatery",
+      "lat": -33.682675,
+      "long": 151.228083,
+      "ambiance": "4/10",
+      "rating": "6/10",
+      "comments": "Only decent place in Terrey Hills"
+    },
+    {
+      "name": "Industry Beans",
+      "lat": -33.869329,
+      "long": 151.206222,
+      "ambiance": "10/10",
+      "rating": "7.8/10",
+      "comments": "Coffee foam tastes like pumpkin soup! that's ok though, the ambiance is amazing!"
+    },
+    {
+      "name": "Signature Espresso",
+      "lat": -33.871501,
+      "long": 151.203785,
+      "ambiance": "6/10",
+      "rating": "7/10",
+      "comments": "I like this place, it is tiny but the piccolos are always nice. Will have to see what max thinks!"
     }
   ]
 }
