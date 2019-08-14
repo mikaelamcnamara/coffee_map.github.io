@@ -1,5 +1,5 @@
 var config = {
-	"title": "Bootleaf template map",
+	"title": "Mik & Max Coffee App",
 	"start": {
 		// "maxZoom": 16,
 		"center": [38.203,-99.799],
@@ -8,8 +8,8 @@ var config = {
 		"zoomControl": false
 	},
 	"about": {
-		"title": "Bootleaf application template",
-		"contents": "<p>This is an open-source version of the excellent <a href='https://github.com/bmcbride/bootleaf'>Bootleaf map </a>started by Bryan McBride.</p><p>It's designed for rapid web map development. See <a href='https://github.com/iag-geo/bootleaf'>https://github.com/iag-geo/bootleaf</a> for more information.</p><p>Chage this message in the config file</p>"
+		"title": "Mik & Max Coffee App",
+		"contents": "<p>This app displays all our fav coffee places around the area! I will add restaurants next :) </p>"
 	},
 	"controls": {
 		"zoom": {
