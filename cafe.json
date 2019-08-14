@@ -1,0 +1,34 @@
+{
+  "cafes": [{
+      "name": "Market Lane",
+      "lat": -33.797689,
+      "long": 151.286270,
+      "ambiance": "4/5",
+      "flavor": "5/5",
+      "comments": "It ok sometimes"
+    }, {
+      "name": "Silo Espresso",
+      "lat": -33.797336,
+      "long": 151.286498,
+      "ambiance": "3/5",
+      "rating": "3/5",
+      "comments": "depends on who is working"
+    },
+    {
+      "name": "Barefoot Coffee",
+      "lat": -33.797288,
+      "long": 151.285554,
+      "ambiance": "4/5",
+      "flavor": "3/5",
+      "comments": "Good place to get work done. Busy enough and big enough. Coffee is fine."
+    },
+    {
+      "name": "Roller's Bakehouse",
+      "lat": -33.797841,
+      "long": 151.287828,
+      "ambiance": "3/5",
+      "rating": "3.5/5",
+      "comments": "quite nice. Rory likes it"
+    }
+  ]
+}
