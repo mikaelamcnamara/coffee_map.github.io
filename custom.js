@@ -12,13 +12,13 @@ function beforeMapLoads(){
 	myBasemap.addTo(myMap)
 
 	// Set view of the map
-	myMap.setView([-33.7932, 151.2876], 15);
+	myMap.setView([-33.7932, 151.2876], 14);
 
 	// Define cafe icon
 	const coffeeCup = L.icon({
 	iconUrl: 'coffee-cup.png',
 	shadowUrl: '',
-	iconSize: [15, 15]
+	iconSize: [20, 20]
 	});
 
 	// Make an XMLHttpRequest to the JSON data
@@ -42,6 +42,20 @@ function beforeMapLoads(){
 			<p><b>Comments:</b> ${cafe.comments}</p>
 		`).openPopup().addTo(myMap);
 	});
+
+	const newcafes = data.cafes.map(cafe => {
+		console.log(cafe.name);
+
+		L.marker([cafe.lat, cafe.long], {
+		icon: coffeeCup
+		}).bindPopup(`
+			<h2>${cafe.name}</h2>
+			<p><b>Vibe:</b> ${cafe.ambiance}</p>
+			<p><b>Rating:</b> ${cafe.rating}</p>
+			<p><b>Comments:</b> ${cafe.comments}</p>
+		`).openPopup().addTo(myMap);
+	});
+
 	}
 request.send();
 
