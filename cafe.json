@@ -4,8 +4,8 @@
       "lat": -33.797689,
       "long": 151.286270,
       "ambiance": "4/5",
-      "flavor": "5/5",
-      "comments": "It ok sometimes"
+      "rating": "4/5",
+      "comments": "It pretty good"
     }, {
       "name": "Silo Espresso",
       "lat": -33.797336,
@@ -19,8 +19,8 @@
       "lat": -33.797288,
       "long": 151.285554,
       "ambiance": "4/5",
-      "flavor": "3/5",
-      "comments": "Good place to get work done. Busy enough and big enough. Coffee is fine."
+      "rating": "3.5/5",
+      "comments": "been once"
     },
     {
       "name": "Roller's Bakehouse",
