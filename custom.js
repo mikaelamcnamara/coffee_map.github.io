@@ -16,7 +16,7 @@ function beforeMapLoads(){
 
 	// Define cafe icon
 	const coffeeCup = L.icon({
-	iconUrl: 'latte.png',
+	iconUrl: 'coffee-cup.png',
 	shadowUrl: '',
 	iconSize: [15, 15]
 	});
