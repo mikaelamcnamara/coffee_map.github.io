@@ -1,4 +1,4 @@
-{{
+{
   "cafes": [{
       "name": "Market Lane",
       "lat": -33.797689,
@@ -143,6 +143,5 @@
       "rating": "5.5/10",
       "comments": "This cafe is subject to extreme inflation"
     }
-
   ]
 }
