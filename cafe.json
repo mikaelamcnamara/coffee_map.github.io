@@ -1,32 +1,33 @@
-{
+{{
   "cafes": [{
       "name": "Market Lane",
       "lat": -33.797689,
       "long": 151.286270,
-      "ambiance": "6/10",
-      "rating": "6.5/10",
-      "comments": "It pretty good"
-    }, {
+      "ambiance": "7/10",
+      "rating": "8/10",
+      "comments": "It pretty good, lots of cyclists. Do not get coffee if the brazilian guy is working"
+    },
+    {
       "name": "Silo Espresso",
       "lat": -33.797336,
       "long": 151.286498,
-      "ambiance": "5/10",
-      "rating": "4-7/10",
-      "comments": "We are regulars when in Manly. Sometimes good, sometimes bad. Depends on who is working"
+      "ambiance": "6/10",
+      "rating": "7.5/10",
+      "comments": "We are regulars when in Manly. Usually pretty good."
     },
     {
       "name": "Barefoot Coffee",
       "lat": -33.797288,
       "long": 151.285554,
       "ambiance": "5/10",
-      "rating": "6/10",
-      "comments": "been once"
+      "rating": "4/10",
+      "comments": "Coffee was shit, really milky. Might be using a single shot in a 14 fl.oz cup. Yet to confirm"
     },
     {
       "name": "Roller's Bakehouse",
       "lat": -33.797841,
       "long": 151.287828,
-      "ambiance": "7/10",
+      "ambiance": "9/10",
       "rating": "7/10",
       "comments": "Quite nice. Rory likes it here"
     },
@@ -34,7 +35,7 @@
       "name": "Aggy's Corner",
       "lat": -33.790533,
       "long": 151.261551,
-      "ambiance": "7/10",
+      "ambiance": "8/10",
       "rating": "7/10",
       "comments": "Need to try again"
     },
@@ -42,8 +43,8 @@
       "name": "7 Miles Espresso",
       "lat": -33.786786,
       "long": 151.267600,
-      "ambiance": "7/10",
-      "rating": "7.5/10",
+      "ambiance": "8/10",
+      "rating": "8.5/10",
       "comments": "Need to try again"
     },
     {
@@ -66,8 +67,8 @@
       "name": "Chriselle's Gormet Eatery",
       "lat": -33.682675,
       "long": 151.228083,
-      "ambiance": "4/10",
-      "rating": "6/10",
+      "ambiance": "3/10",
+      "rating": "5/10",
       "comments": "Only decent place in Terrey Hills"
     },
     {
@@ -85,6 +86,63 @@
       "ambiance": "6/10",
       "rating": "7/10",
       "comments": "I like this place, it is tiny but the piccolos are always nice. Will have to see what max thinks!"
+    },
+    {
+      "name": "Skittle Lane",
+      "lat": -33.868594, 
+      "long": 151.204717,
+      "ambiance": "8/10",
+      "rating": "9/10",
+      "comments": "Columbian roast - hard to beat."
+    },
+     {
+      "name": "Silo Espresso West",
+      "lat": -33.798685, 
+      "long": 151.284406,
+      "ambiance": "4/10",
+      "rating": "4/10",
+      "comments": "The coffee here is cold. It is the same temperature as their piss..suspicious"
+    },
+    {
+      "name": "Bean Obsessed",
+      "lat": -33.793426, 
+      "long": 151.264967,
+      "ambiance": "5/10",
+      "rating": "6/10",
+      "comments": "Lots of sugar!!"
+    },
+     {
+      "name": "Little Legends",
+      "lat": -33.798126, 
+      "long": 151.287277,
+      "ambiance": "6/10",
+      "rating": "6/10",
+      "comments": "Coffee is decent, nice cups"
+    },
+    {
+      "name": "The Roast Office",
+      "lat":-33.801491, 
+      "long": 151.288763, 
+      "ambiance": "6/10",
+      "rating": "6/10",
+      "comments": "Coffee has definitely been worse since new owners. Avoid the wraps at all costs."
+    },
+    {
+      "name": "Bacino Bar Balgowlah",
+      "lat":-33.794394, 
+      "long": 151.263562,  
+      "ambiance": "6.5/10",
+      "rating": "6/10",
+      "comments": "The breakfast here were great when the first opened, they have since reduced portion size"
+    },
+    {
+      "name": "Roseberry Street Cafe",
+      "lat": -33.790255,  
+      "long": 151.267035,  
+      "ambiance": "6/10",
+      "rating": "5.5/10",
+      "comments": "This cafe is subject to extreme inflation"
     }
+
   ]
 }
